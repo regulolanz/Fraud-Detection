@@ -46,6 +46,6 @@ You will need to install the necessary Python libraries. If not already installe
 pip install pandas numpy hvplot sqlalchemy psycopg2-binary
 ```
 
-## Conclus
+## Conclusion
 
 This project is a simple demonstration of using SQL and Python together for data analysis. It provides a basis for a fraud detection system, which can be further enhanced with machine learning algorithms for more accurate detection.
